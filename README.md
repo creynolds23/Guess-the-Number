@@ -16,5 +16,5 @@ As a computer engineer seeking to learn the Java programming language, I have cr
 
 Even though this project provided me with many learning experiences, there are some items for future improvement which include:
 * Implementing a graphical user interface 
-* Instead of just showing the highscore for the session track highscores using save and load score options
+* Instead of just showing the highscore for the session, track highscores using save and load score options
 * Extending the game with additional gameplay modes

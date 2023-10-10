@@ -1,6 +1,8 @@
 # Overview
 As a computer engineer seeking to learn the Java programming language, I have created a Java application to demonstrate and explore various aspects of the Java language. This project focuses on implementing a Number Guessing Game with different difficulty levels and a high score tracking system. This project assisted with gaining hands-on experience with Java, practicing object-oriented programming in Java, learning about a Java data structure like lists, and creating a simple console-based game in Java.
 
+[Guess the Number Demo](https://www.youtube.com/watch?v=ByQLsk2riQo)
+
 # Development Environment
 * Java: Primary programming language for writing the application
 * Visual Studio Code IDE: Used as the integrated development enironment for coding, debugging, and testing
